@@ -1,5 +1,55 @@
 # CS-340-Client-Server-Development-7-2-Project-Two-Submission
 
+How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+
+Maintainability
+-Modular Code: Break your code into small, reusable functions or classes. This makes it easier to test, update, and debug.
+-Documentation: Use comments and docstrings to explain what the code does and how to use it. This helps others (and yourself) understand the code quickly.
+-Consistent Naming Conventions: Use descriptive names for variables, functions, and classes. This makes the code easier to read and follow.
+Readability
+-Clear Structure: Organize code logically and use consistent formatting.
+-Avoid Complex Code: Keep code simple and avoid deep nesting.
+Adaptability
+-Flexibility: Write code that’s easy to modify or extend with configuration files or parameters.
+-Testing: Use unit tests to check that changes don’t break existing features.
+
+Advantages of Working This Way on the CRUD Python Module
+-Easy to Maintain: Changes are simple since everything is in one place.
+-Reusable: Can be used in different projects, saving time.
+-Clear and Understandable: Well-organized code is easier to read and work with.
+
+Future Uses of the CRUD Python Module
+-Integration: Connect with different apps or services.
+-Expansion: Add more features like updates or deletions.
+-Deployment: Use in new projects for consistent database handling.
+
+How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+
+Approach as a Computer Scientist
+-Understand Requirements: Clarify client needs.
+-Plan Solution: Outline key features.
+-Build Iteratively: Develop and test in stages.
+-Document and Test: Record and ensure functionality.
+
+Difference from Previous Assignments
+-Client Focus: Tailor to specific needs.
+-Real-World Application: Address practical constraints and expectations
+
+Future Strategies
+-Understand Needs: Clarify client requirements.
+-Build Modular: Create flexible, reusable parts.
+-Test Thoroughly: Check for issues early.
+
+What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+
+Role of Computer Scientists
+-Solve Problems: Design and build tech solutions.
+-Optimize Processes: Make systems more efficient.
+
+Impact on Companies
+-Improve Efficiency: Streamline operations and reduce errors.
+-Support Growth: Provide tools for better decision-making and scalability.
+==
 
 Describe the required functionality of the project. Include the screenshots or screencast taken while testing and deploying your dashboard (Step 6) as proof that you have achieved the required functionality.
 
