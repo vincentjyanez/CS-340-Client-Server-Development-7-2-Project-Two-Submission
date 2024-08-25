@@ -49,7 +49,6 @@ Role of Computer Scientists
 Impact on Companies
 -Improve Efficiency: Streamline operations and reduce errors.
 -Support Growth: Provide tools for better decision-making and scalability.
-==
 
 Describe the required functionality of the project. Include the screenshots or screencast taken while testing and deploying your dashboard (Step 6) as proof that you have achieved the required functionality.
 
