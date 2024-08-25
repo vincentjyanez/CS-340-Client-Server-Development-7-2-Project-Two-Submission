@@ -1,4 +1,4 @@
-# CS-340-Client-Server-Development-7-2-Project-Two-Submission
+# CS-340-Client-Server-Development-8-1 Assignment Data Aggregation Pipeline
 
 How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
 
@@ -49,6 +49,8 @@ Role of Computer Scientists
 Impact on Companies
 -Improve Efficiency: Streamline operations and reduce errors.
 -Support Growth: Provide tools for better decision-making and scalability.
+
+# CS-340-Client-Server-Development-7-2-Project-Two-Submission
 
 Describe the required functionality of the project. Include the screenshots or screencast taken while testing and deploying your dashboard (Step 6) as proof that you have achieved the required functionality.
 
